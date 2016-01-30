@@ -39,3 +39,11 @@ img src{
 	width:50%;
 	height:50%;
 }
+
+a {
+	color: #000;
+}
+
+a:visited {
+	color: #999;
+}
